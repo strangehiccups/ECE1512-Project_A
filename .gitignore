@@ -1,4 +1,5 @@
 *.tif
 *.mov
 *.h5
+*.venv
 *.pkl

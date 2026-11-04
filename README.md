@@ -1,5 +1,4 @@
 # ECE1512 Project A - Chen Jiarong Edwin (1012371773)
-All code for this project is contained in .\Project_A_Starter_Code
 
 ```
 📄 Project_A_Report.pdf
